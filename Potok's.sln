@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Potok's", "Potok's\Potok's.vcxproj", "{B6D99353-3076-4FEC-A23C-F56A72A2FA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D99353-3076-4FEC-A23C-F56A72A2FA04}.Debug|x64.ActiveCfg = Debug|x64
+		{B6D99353-3076-4FEC-A23C-F56A72A2FA04}.Debug|x64.Build.0 = Debug|x64
+		{B6D99353-3076-4FEC-A23C-F56A72A2FA04}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6D99353-3076-4FEC-A23C-F56A72A2FA04}.Debug|x86.Build.0 = Debug|Win32
+		{B6D99353-3076-4FEC-A23C-F56A72A2FA04}.Release|x64.ActiveCfg = Release|x64
+		{B6D99353-3076-4FEC-A23C-F56A72A2FA04}.Release|x64.Build.0 = Release|x64
+		{B6D99353-3076-4FEC-A23C-F56A72A2FA04}.Release|x86.ActiveCfg = Release|Win32
+		{B6D99353-3076-4FEC-A23C-F56A72A2FA04}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B9E13A7-1AD2-4E47-A467-071A1219AFF9}
+	EndGlobalSection
+EndGlobal
